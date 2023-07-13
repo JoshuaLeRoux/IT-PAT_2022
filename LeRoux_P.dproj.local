@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/11/11 14:51:50.615.pas,D:\quick access\docs\RAD Studio\Projects\Unit1.pas=E:\IT PAT\new Program\Home_U.pas</Transaction>
+    <Transaction>2022/11/11 14:51:50.615.dfm,D:\quick access\docs\RAD Studio\Projects\Unit1.dfm=E:\IT PAT\new Program\Home_U.dfm</Transaction>
+    <Transaction>2022/11/11 14:52:27.693.dproj,D:\quick access\docs\RAD Studio\Projects\Project1.dproj=E:\IT PAT\new Program\LeRoux_P.dproj</Transaction>
+    <Transaction>2022/11/11 15:09:56.434.pas,E:\IT PAT\new Program\Unit1.pas=E:\IT PAT\new Program\chessDM.pas</Transaction>
+    <Transaction>2022/11/11 15:09:56.434.dfm,E:\IT PAT\new Program\Unit1.dfm=E:\IT PAT\new Program\chessDM.dfm</Transaction>
+    <Transaction>2022/11/11 16:57:23.811.pas,E:\IT PAT\new Program\Unit1.pas=E:\IT PAT\new Program\Players_U.pas</Transaction>
+    <Transaction>2022/11/11 16:57:23.811.dfm,E:\IT PAT\new Program\Unit1.dfm=E:\IT PAT\new Program\Players_U.dfm</Transaction>
+    <Transaction>2022/11/11 17:20:29.922.pas,E:\IT PAT\new Program\Unit1.pas=E:\IT PAT\new Program\Structure_U.pas</Transaction>
+    <Transaction>2022/11/11 17:20:29.922.dfm,E:\IT PAT\new Program\Unit1.dfm=E:\IT PAT\new Program\Structure_U.dfm</Transaction>
+    <Transaction>2022/11/11 20:01:42.222.pas,E:\IT PAT\new Program\Unit1.pas=E:\IT PAT\new Program\Games_U.pas</Transaction>
+    <Transaction>2022/11/11 20:01:42.222.dfm,E:\IT PAT\new Program\Unit1.dfm=E:\IT PAT\new Program\Games_U.dfm</Transaction>
+    <Transaction>2022/11/11 23:30:29.573.pas,E:\IT PAT\new Program\Unit1.pas=E:\IT PAT\new Program\Game2_U.pas</Transaction>
+    <Transaction>2022/11/11 23:30:29.573.dfm,E:\IT PAT\new Program\Unit1.dfm=E:\IT PAT\new Program\Game2_U.dfm</Transaction>
+    <Transaction>2022/11/11 23:31:03.529.pas,E:\IT PAT\new Program\Game2_U.pas=E:\IT PAT\new Program\Games2_U.pas</Transaction>
+    <Transaction>2022/11/11 23:31:03.529.dfm,E:\IT PAT\new Program\Game2_U.dfm=E:\IT PAT\new Program\Games2_U.dfm</Transaction>
+    <Transaction>2022/11/11 23:33:55.826.pas,E:\IT PAT\new Program\Unit1.pas=E:\IT PAT\new Program\Games3_U.pas</Transaction>
+    <Transaction>2022/11/11 23:33:55.826.dfm,E:\IT PAT\new Program\Unit1.dfm=E:\IT PAT\new Program\Games3_U.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
